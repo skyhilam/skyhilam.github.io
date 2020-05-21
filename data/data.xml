@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+<Setting mp3Url="data/bgSound.mp3"/>
+ <cross-domain-policy>
+   <allow-access-from domain="*"/> 
+ </cross-domain-policy>
+
+
+<question ans="3">
+<word>斑馬魚寶寶的顏色是_______。</word>
+<ans>黑色</ans>
+<ans>白色</ans>
+<ans>透明</ans>
+</question>
+
+<question ans="2">
+<word>一對斑馬魚一次可以生約______個魚寶寶。</word>
+<ans>20</ans>
+<ans>200</ans>
+<ans>2000</ans>
+</question>
+
+<question ans="2">
+<word>成年斑馬魚體長約______cm。</word>
+<ans>1-2</ans>
+<ans>3-4</ans>
+<ans>5-6</ans>
+</question>
+
+<question ans="3">
+<word>斑馬魚胚胎需要經過______小時才開始脫膜孵化，可自由游泳。</word>
+<ans>12-24</ans>
+<ans>24-36</ans>
+<ans>48-72</ans>
+</question>
+
+<question ans="1">
+<word>初生的斑馬魚胚胎不需要餵食，______天大以後可以開始進食。</word>
+<ans>5</ans>
+<ans>10</ans>
+<ans>15</ans>
+</question>
+
+<question ans="2">
+<word>斑馬魚胚胎發育到______小時開始長出色素。</word>
+<ans>12</ans>
+<ans>24</ans>
+<ans>48</ans>
+</question>
+
+<question ans="1">
+<word>以斑馬魚為研究對象的科研應用至今已大約有______年的歷史。</word>
+<ans>80</ans>
+<ans>150</ans>
+<ans>200</ans>
+</question>
+
+<question ans="2">
+<word>科學家用______方法使斑馬魚特定器官或組織顯示螢光。</word>
+<ans>基因突變</ans>
+<ans>轉基因</ans>
+<ans>基因敲除</ans>
+</question>
+
+<question ans="2">
+<word>人類與魚的基因有_____相似。</word>
+<ans>35%</ans>
+<ans>70%</ans>
+<ans>100%</ans>
+</question>
+
+<question ans="3">
+<word>人類與猴子的基因有_____相似。</word>
+<ans>20%</ans>
+<ans>70%</ans>
+<ans>96%</ans>
+</question>
+
+<question ans="1">
+<word>斑馬魚是一種____ ?</word>
+<ans>淡水魚</ans>
+<ans>咸水魚</ans>
+<ans>海水魚</ans>
+</question>
+
+<question ans="3">
+<word>斑馬魚因為____所以被稱為斑馬魚。</word>
+<ans>是斑馬的後代</ans>
+<ans>體形像馬</ans>
+<ans>身上有斑馬條紋</ans>
+</question>
+
+<question ans="2">
+<word>模式生物被廣泛應用於科學研究，以下哪一種不是模式生物。</word>
+<ans>果蠅</ans>
+<ans>恐龍</ans>
+<ans>斑馬魚</ans>
+</question>
+
+<question ans="3">
+<word>斑馬魚作為模式生物, 可被應用於_____疾病研究。</word>
+<ans>心臟</ans>
+<ans>血管</ans>
+<ans>以上皆是</ans>
+</question>
+
+<question ans="2">
+<word>人體的什麼器官能推動血液循環。</word>
+<ans>皮膚</ans>
+<ans>心臟 </ans>
+<ans>脾臟</ans>
+</question>
+
+<question ans="2">
+<word>_____ 生物是指受到廣泛研究而建立出生物的模型，並應用在不同領域的科學研究。</word>
+<ans>史前</ans>
+<ans>模式</ans>
+<ans>微細</ans>
+</question>
+
+<question ans="3">
+<word>我們的遺傳信息是來自____。</word>
+<ans>哥哥姐姐</ans>
+<ans>日常飲食</ans>
+<ans>爸爸媽媽</ans>
+</question>
+
+<question ans="2">
+<word>正常飲用水的酸鹼度應為____。</word>
+<ans>pH 4</ans>
+<ans>pH 7</ans>
+<ans>pH 10</ans>
+</question>
+
+<question ans="1">
+<word>植物利用____進行光合作用?</word>
+<ans>葉綠素</ans>
+<ans>花青素</ans>
+<ans>維生素</ans>
+</question>
+
+<question ans="3">
+<word>斑馬魚作為模式生物, 可被應用於_____疾病研究。</word>
+<ans>胃質疏鬆</ans>
+<ans>柏金遜</ans>
+<ans>以上皆是</ans>
+</question>
+
+<question ans="2">
+<word>某些轉基因斑馬魚的魚卵/幼魚在_____下會顯示特定顏色。</word>
+<ans>激光</ans>
+<ans>螢光</ans>
+<ans>白光</ans>
+</question>
+
+<question ans="1">
+<word>蛋白質由____組成。</word>
+<ans>氨基酸</ans>
+<ans>核酸</ans>
+<ans>透明質酸</ans>
+</question>
+
+</data>

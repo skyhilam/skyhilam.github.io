@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<Setting data="data/data.xml" />
+	<time>3</time>	
+
+ <cross-domain-policy>
+   <allow-access-from domain="*"/> 
+ </cross-domain-policy>
+
+</data>
